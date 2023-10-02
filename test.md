@@ -1,2 +1,2 @@
 Hello World
-![Image](https://cdn.stackoverflow.co/images/jo7n4k8s/production/0adb1d81c4ad7f4aa926a3fe44833a860413cec9-1000x1000.jpg)
+![Image](https://www.elegantthemes.com/blog/wp-content/uploads/2020/08/hello-world.png)
