@@ -1,5 +1,5 @@
 **Table of contents:**
 
 # Lab 1
-[Link](https://chrisxaysanasith.github.io/cse15l-lab-reports/lab_test.html)	
+[Link](https://chrisxaysanasith.github.io/cse15l-lab-reports/test.html)	
 
