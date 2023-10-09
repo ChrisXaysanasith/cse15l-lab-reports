@@ -44,3 +44,19 @@ I am listing the directory of messages therefore the files that are listed conta
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/1aa7eaa0-733b-488e-a833-42a142467fb8)
 
 The way I am listing the path to a file only lists the absolute path of the file
+
+---
+
+**CAT**
+
+* CAT with no arg
+
+![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/568f7382-c1cf-4c1d-a38c-792fe2a04976)
+
+The concatenate outputs  nothing because theres no argument to print out the content of a file
+
+* CAT with a path arg
+
+![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/5531532b-06b0-4893-8915-da9b15430874)
+
+The concatenate outputs that the path we are entering is a directory.
