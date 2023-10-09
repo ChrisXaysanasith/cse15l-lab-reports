@@ -15,7 +15,7 @@ due to there being no path.
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/2163b7ec-7144-453e-8b44-a5218532201b)
 
-Changing the directory with an argument results in going into the relative path ./lecture1 , making the absolute path /home/lecture1
+Changing the directory with an argument results in going into the relative path `./lecture1` , making the absolute path /home/lecture1
 
 * CD with a path to file arg
 
@@ -37,7 +37,7 @@ The usage of list, gives the files and folders in the given directory which the 
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/0391bbeb-6cf7-43ea-abd9-71a6ef3b769a)
 
-I am listing the directory of the absolute path /home/lecture1/messages therefore the files that are listed contain the contents of `Hello World!` in a certain language file
+I am listing the directory of the absolute path `/home/lecture1/messages` therefore the files that are listed contain the contents of `Hello World!` in a certain language file
 
 * LS with a path to file arg
 
