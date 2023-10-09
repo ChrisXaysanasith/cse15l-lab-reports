@@ -46,7 +46,7 @@ The way I am listing the path to a file only lists the absolute path `/home/lect
 
 ---
 
-**CAT**
+**cat**
 
 * cat with no arg
 
