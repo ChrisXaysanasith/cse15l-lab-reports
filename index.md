@@ -1,6 +1,3 @@
 # Chris Xaysanasith
 
-Intro
-[Link](https://chrisxaysanasith.github.io/cse15l-lab-reports/intro.html)	
-
-Lab1
+[Lab1](https://chrisxaysanasith.github.io/cse15l-lab-reports/lab1.html)
