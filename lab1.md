@@ -62,6 +62,7 @@ The concatenate outputs no absolute path because theres no argument to print out
 The concatenate outputs from the absolute path `/home/lecture1/messages` which states that it is a directory for the usage of CAT
 
 * CAT with a part to file arg
+  
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/0edec8b9-43db-48fe-8086-8b6213c16484)
 
 The concatenate outputs the file `Hello World` from the absolute path `/home/lecture1/messages/en-us.txt`
