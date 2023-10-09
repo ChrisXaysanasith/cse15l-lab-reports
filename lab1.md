@@ -53,12 +53,11 @@ The way I am listing the path to a file only lists the absolute path `/home/lect
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/568f7382-c1cf-4c1d-a38c-792fe2a04976)
 
 The concatenate outputs no absolute path because theres no argument to print out the content of a file
-
 * cat with a path arg
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/5531532b-06b0-4893-8915-da9b15430874)
 
-The concatenate outputs from the absolute path `/home/lecture1/messages` which states that it is a directory for the usage of cat
+The concatenate outputs from the absolute path `/home/lecture1/messages` which states that it is a directory for the usage of cat, therefore an error occurs as its not reading a file rather it outputs that its a directory
 
 * cat with a part to file arg
   
