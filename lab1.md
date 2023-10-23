@@ -8,7 +8,7 @@
   
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/047793fc-f5b6-4f3d-854f-947ca292c2f1)
 
-The usage of change directory with no arg brings you back to the /home directory, or so called home directory of the user. For example if I cd into wavelet it will be `/home/lecture1`, but if I cd it makes the working path `/home`
+The usage of change directory with no arg brings you back to the /home directory, or so called home directory of the user. For example if I cd into lecture1 it will be `/home/lecture1`, but if I cd it makes the working path `/home`
 
 * cd with a path arg
 
