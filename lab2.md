@@ -6,8 +6,6 @@
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/da53f464-dd63-4de6-880c-fed9f0fa6843)
 
-
-
 * /add-message?s=Hello
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/7dec67ee-82de-4342-b622-7e1c31bf03d2)
