@@ -7,7 +7,7 @@
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/94b04e5e-03d4-4ec8-9f11-729f998189b9)
 
 * /add-message?s=Hello
-
+  
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/7dec67ee-82de-4342-b622-7e1c31bf03d2)
 
 * /add-message?s=How are you
@@ -26,7 +26,6 @@ the number will be added, the = will split the string, value is empty right now 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/30eefa7e-8971-4860-9724-59325b3069d4)
 
 **terminal without password**
-
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/547d9c18-e737-43ab-b10d-eadcc61f3ef6)
 
 This week I learned how to use SSH and understand how to make a new directory, these are the things I have never used in my daily life, therefore understanding these commands have taught me how to remote into a server, giving me more knowledge on how SSH works.
