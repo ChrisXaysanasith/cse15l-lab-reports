@@ -27,7 +27,7 @@ the number will be added, the = will split the string, value is empty right now 
 
 **terminal without password**
 
-![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/819406f4-dd2f-4fb2-9100-a0622fd02a59)
+![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/a915088c-1239-4e5a-9202-e16ea9bab499)
 
 
 This week I learned how to use SSH and understand how to make a new directory, these are the things I have never used in my daily life, therefore understanding these commands have taught me how to remote into a server, giving me more knowledge on how SSH works.
