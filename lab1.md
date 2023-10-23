@@ -30,7 +30,7 @@ Changing the directory with an argument to a file results to an error, because w
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/eb058c44-08ae-476e-b324-dcf74eb3eca6)
 
-The usage of list, gives the files and folders in the given directory which the directory we will be working with is `/home` and the contents in `/home`
+The usage of list, gives the files and folders in the given directory which the directory we will be working with is `/home` and the contents in `/home`. Absolute path is `/home`
 
 * ls with a path arg
 
