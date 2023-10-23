@@ -14,8 +14,8 @@
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/88030008-94b2-4a23-94fd-a3175ca2c438)
 
-the url.getPath().contains("/add-message")) gets called, therefore the arguments required in this is /add-message then if the query contains s= which results in /add-message?s= then when you put a value after the end of s= 
-the number will be added, the = will split the string, value is empty right now, the try and catch will also be ran for the string to format it. Then the stringSearch will apply the string to the value.
+the url.getPath().contains("/add-message")) gets called, therefore the arguments required in this is /add-message then if the query contains s= which results in /add-message?s= then when you put a string after the end of s= 
+the number will be added, the = will split the string, value is empty right now then the value gets applied when you apply a string, the try and catch will also be ran for the string to format it. Then the stringSearch will apply the string to the value.
 
 **ls into private key of ssh**
 
