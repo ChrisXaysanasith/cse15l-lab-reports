@@ -8,7 +8,7 @@
   
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/047793fc-f5b6-4f3d-854f-947ca292c2f1)
 
-The usage of change directory has no effect when called upon as the example image given, the output is empty due to there being no path.
+The usage of change directory with no arg brings you back to the /home directory, or so called home directory of the user.
 
 * cd with a path arg
 
