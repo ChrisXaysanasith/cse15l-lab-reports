@@ -4,7 +4,7 @@
 
 **StringServer.java**
 
-![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/da53f464-dd63-4de6-880c-fed9f0fa6843)
+![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/419d1498-0a55-4a6b-8971-3b68c3e4ca87)
 
 * /add-message?s=Hello
 
