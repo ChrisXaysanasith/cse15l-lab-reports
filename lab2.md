@@ -9,7 +9,7 @@
 * /add-message?s=Hello
 * /add-message?s=How are you
 
-![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/4c044a7c-dcee-4cb7-8254-601a3896ba16)
+![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/671a94e2-ef5a-493a-94dc-232af359b47b)
 
 the url.getPath().contains("/add-message")) gets called, therefore the arguments required in this is /add-message then if the query contains s= which results in /add-message?s= then when you put a value after the end of s= 
 the number will be added, the = will split the string, value is empty right now, the try and catch will also be ran for the string to format it. Then the stringSearch will apply the string to the value.
