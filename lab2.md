@@ -14,7 +14,7 @@
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/88030008-94b2-4a23-94fd-a3175ca2c438)
 
-so the method handleRequest gets called, therefore the stringSearch field is initalized to an empty string and the field numAdd is initialized to 0. Therefore when you are calling the getPath /add-message, with the query s=, it icremenets in the numAdd by one, it takes the argument of the query split which is the message after the s= which means I also have a value of a string thats initalized to an empty string which will be part of the inside if statement, which is a empty string. Therefore I have a try catch to decode the query split which contains the message, then it gets concatened in a string format for the stringSearch field with the field value and field numAdd increment which is returned.
+so the method handleRequest gets called, therefore the stringSearch field is initalized to an empty string and the field numAdd is initialized to 0. Therefore when you are calling the getPath /add-message, with the query s=, it increments in the numAdd by one, it takes the argument of the query split which is the message after the s= which means I also have a value of a string thats initalized to an empty string which will be part of the inside if statement, which is a empty string. Therefore I have a try catch to decode the query split which contains the message, then it gets concatened in a string format for the stringSearch field with the field value and field numAdd increment which is returned.
 
 **ls into private key of ssh**
 
