@@ -62,8 +62,7 @@ Caused by: java.lang.AssertionError: expected:<1> but was:<3>
 FAILURES!!!
 Tests run: 4,  Failures: 3
 
-`
-  @Test
+`@Test
     public void reverseTestEven() {
     int[] input1 = {1, 2 ,3 ,4 ,5, 6};
     ArrayExamples.reverseInPlace(input1);
@@ -71,8 +70,7 @@ Tests run: 4,  Failures: 3
     }
 `
 
-`
-  @Test 
+`@Test 
     public void reverseTestOdd() {
     int[] input1 = {1, 2, 3};
     ArrayExamples.reverseInPlace(input1);
