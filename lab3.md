@@ -106,7 +106,7 @@ Tests run: 4,  Failures: 3
 
 **grep -r**
 look for all files in the current directory and in its subdirectories 
-*'shoot' technical/911report
+* 'shoot' technical/911report
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/fcf46c50-a503-4020-b9b5-3a7cc783132e)
 
 **grep -c**
