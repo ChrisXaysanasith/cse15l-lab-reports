@@ -14,12 +14,13 @@
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/88030008-94b2-4a23-94fd-a3175ca2c438)
 
-the url.getPath().contains("/add-message")) gets called, therefore the arguments required in this is /add-message then if the query contains s= which results in /add-message?s= then when you put a string after the end of s= 
-the number will be added, the = will split the string, value is empty right now then the value gets applied when you apply a string, the try and catch will also be ran for the string to format it. Then the stringSearch will apply the string to the value.
+so the method handleRequest gets called, therefore the stringSearch field is initalized to an empty string and numAdd is initialized to 0. Therefore when you are calling the getPath /add-message, with the query s=, it incremenets in the numAdd by one, it takes the argument of the query split which is the message after the s= which means I also have a value of a string thats initalized to an empty string which will be part of the inside if statement, which is a empty string. Therefore I have a try catch to decode the query split which contains the message, then it gets concatened in a string format for stringSearch field with the value and increment which is returned.
 
 **ls into private key of ssh**
 
 ![Image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/287e650b-6183-447d-86a2-5d2a7263148c)
+
+the public key starts with the file extension .pub meanwhile the private key does not have .pub therefore it is id_rsa
 
 **path to the public key**
 
