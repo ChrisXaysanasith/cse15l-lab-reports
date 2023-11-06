@@ -106,7 +106,7 @@ Tests run: 4,  Failures: 3
 
 **grep -r**
 look for all files in the current directory and in its subdirectories 
-'shoot' technical/911report
+*'shoot' technical/911report
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/fcf46c50-a503-4020-b9b5-3a7cc783132e)
 
 **grep -c**
@@ -119,25 +119,24 @@ searching only the word
 * "is" technical/911report/chapter-1.txt
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/ff3e9c8f-6e3d-4939-b7ea-71cdd79ae9eb)
 
-
 **grep -n**
 Display the matched lines and their line numbers
 * "9/11" technical/911report/chapter-1.txt
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/b823f5cf-f4ef-4bfd-bdfb-2c6200b01284)
 
-find ./technical/911report/ -iname "chapter-[0-12].txt"
+**find ./technical/911report/ -iname "chapter-[0-12].txt"**
 finds the file name with the name in range
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/50dbca1b-6acd-49d9-869e-15b75de6fca3)
 
-find ./technical/911report/ -name "*txt"
+**find ./technical/911report/ -name "*txt"**
 finds the file with txt extension
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/9bd5fc42-bd10-4455-a726-4a7ce393641d)
 
-find ./technical/biomed/ -iname "1468-0678-3-[0.5].txt"
+**find ./technical/biomed/ -iname "1468-0678-3-[0.5].txt"**
 finds the file with txt extension
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/661d1a5d-6fbc-459d-ac8f-d09a89e9c911)
 
-find ./technical/biomed/ -name "*txt"
+**find ./technical/biomed/ -name "*txt"**
 finds the file with txt extension 
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/23ffeb95-b78c-4784-b049-039935e03c5e)
 
