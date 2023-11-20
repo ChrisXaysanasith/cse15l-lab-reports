@@ -107,13 +107,15 @@ Display the matched lines and their line numbers
 
 **Citation:**
 
-ChatGPT - "what commands can i use with -name"
+These are the sources I used for -r, -c, iw, -n 
 
-**ChatGPT output:**
+![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/e12ab5d9-1e25-48a0-aa1d-38515f78c0a4)
 
-"-name "file[0-9].txt": Use square brackets to match a single character from a specified range. This matches names like "file0.txt," "file1.txt," etc."
-"-iname "pattern": This is similar to -name but performs a case-insensitive search. It matches "pattern" regardless of letter case."
-"-name "*.txt": You can use wildcards to match files or directories with a specific extension. This example will find all files or directories ending with ".txt."
+![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/2842fae6-dfc6-4666-b96e-9c37cd20c268)
+
+![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/aa56e77e-bee0-4780-8068-5dd61fe5ace8)
+
+![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/da85b86f-4cb3-4887-abae-1f7483ed7ef6)
 
 https://www.thegeekstuff.com/2009/03/15-practical-unix-grep-command-examples/
 
