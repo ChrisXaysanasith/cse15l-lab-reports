@@ -41,7 +41,7 @@
 
 **Symptom**
 
-![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/f6f87a97-af50-401a-a365-14bdd4fa4e59a)
+![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/dea61dd6-1cb6-4854-b32f-4f444362637d)
 
 **Before and after code**
 `static void reverseInPlace(int[] arr) {
