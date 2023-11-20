@@ -73,7 +73,7 @@ look for all files in the current directory and in its subdirectories
 * `"stable"` technical/biomed
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/fcf46c50-a503-4020-b9b5-3a7cc783132e)
 
-*This is important because it allows you to search for keywords recursively in the directory and its subdirectories if you are looking for a txt file that has it.
+**This is important because it allows you to search for keywords recursively in the directory and its subdirectories if you are looking for a txt file that has it**
 
 **grep -c**
 search and display the total number of times
