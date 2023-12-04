@@ -39,7 +39,7 @@ Keypresses:
 <img width="494" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/2dabd9a3-80be-433e-9d09-b206bbe72717">
 
 I used vim to find my vim command in my history `vim ListExamples.java` I use `?index1 += 1` to find search backward patten of index1, then dw to delete the word then, press i to go into insert mode then I typed 
-`index2 += 1` then pressed esc to go into normal mode then :wq to save and exit.
+`index2 += 1` then pressed esc to go into normal mode then :wq to save and exit vim.
 
 ## Step 8
 
