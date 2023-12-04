@@ -53,6 +53,8 @@ I used javac to find the java compile in my history and `java<space>`, to find t
 
 ## Step 9
 
+Keypresses: 
+
 `<ctrl-r>,add<enter>,<ctrl-r>,commit<enter>,ctrl-r>,push<enter>`
 
 <img width="642" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/663a1bd8-f5b9-4348-9798-315ee8127640">
