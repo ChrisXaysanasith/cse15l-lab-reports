@@ -1,53 +1,57 @@
 # Lab Report 4
 
-# Vim
+## Step 3
 
-**git clone git@github.com:ChrisXaysanasith/lab7.git**
+Keypresses:
 
-![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/056dc07b-d25e-4168-9026-5238e40bf98c)
+`<up><enter>`
 
-**cd lab7**
+<img width="616" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/2c8db66f-974c-40ed-a1fa-51ee0e6b9e3e">
 
+ssh command was up two in my bash history
 
-Java compiling
-`<up 11 times>` then `<enter>`
-![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/80380595-8da7-465f-9a0d-1527c057b427)
-<img width="854" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/d8e0942e-f6a9-44d7-b80e-b9a7f48690fb">
+## Step 4
 
-![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/fbb78076-7087-4864-abfb-b4fe22b834d3)
+Keypresses:
 
+`<ctrl-r>,clone<enter>`
+The only clone I used recently was for this lab therefore, it was able to find the git clone command in my history.
 
-`<up 10 times>` then `<enter>`
-<img width="1209" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/208cecdf-75c2-4e7b-931b-31833cdaeeb0">
+<img width="689" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/d4b776c6-e895-4393-90e1-e46302a963f8">
 
+## Step 5
 
+Keypresses:
 
-**to enter into the file to vim**
+`<cd la>,<enter>,<ctrl-r>,javac<enter>,<ctrl-r>,java<space><enter>`
 
-* vim ListExamples.java
+<img width="1160" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/9c73224e-d5af-4935-a9b6-3753df78593b">
 
-* Went into search for index1 += 1
-* by doing ?index += 1
-* press i, then dw to remove the index from cursor, then replaced it with index2 += 1
-* esc to normal mode
-* :wq to save and exit
-  
-<img width="953" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/633c1570-0543-482d-b5de-9d44846e02a0">
+I cd'ed into the lab folder by typing in cd la<tab> to tab complete. I searched for the javac and for java I had to add a space for command in my history to not mistaken it for javac.
+Therefore `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` were ran
 
-`<up 4 times>` then `<enter>`
-`<up 2 times>` then `<enter>`
-<img width="1175" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/5d84fd17-8b28-4b00-9647-44a8467bfcae">
+## Step 6
 
-then I know how git works, I typed it individually
+Keypresses:
 
-**git add ListExamples.java**
-For git add it adds it to the staging area locally. 
+`<ctrl-r>,vim<enter>`
 
-**git commit -m "Fixed"**
-For git commit it adds a message that to save the staging area of the local file that was changed. 
+<img width="494" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/2dabd9a3-80be-433e-9d09-b206bbe72717">
 
-**git push**
-For git push it sends the local repository to the remote repository of the git fork.
+I used vim to find my vim command in my history (vim ListExamples.java) I use ?index1 += 1 to find search backward patten of index1, then dw to delete the word then, press i to go into insert mode then I typed 
+`index2 += 1`
 
-<img width="653" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/21e61666-24e1-4736-af68-e131b01babd2">
+## Step 7
 
+Keypresses:
+
+`<ctrl-r>,javac<enter>,<ctrl-r>,java<space><enter>`
+
+<img width="1199" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/6d320bd6-5643-4381-b51b-7080c7902319">
+I used javac to find the compile in my history and `java<space>`, to find the java command in the history. 
+
+`<ctrl-r>,add<enter>,<ctrl-r>,commit<enter>,ctrl-r>,push<enter>`
+
+<img width="642" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/663a1bd8-f5b9-4348-9798-315ee8127640">
+
+I used add, commit, and push to find the commands in my history: `git add ListExamples.java`, `git commit -m "Fixed bugs` and `git push`
