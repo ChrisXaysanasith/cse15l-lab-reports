@@ -28,7 +28,9 @@ Keypresses:
 <img width="1160" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/9c73224e-d5af-4935-a9b6-3753df78593b">
 
 I cd'ed into the lab7 folder by typing in cd la<tab> to tab complete. I searched for the javac and for java I had to add a space for command in my history to not mistaken it for javac.
-Therefore `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCoreListExamplesTests` were ran
+
+Therefore `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and
+`java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCoreListExamplesTests` were ran
 
 ## Step 7
 
