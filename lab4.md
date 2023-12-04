@@ -65,4 +65,4 @@ git add - adds to the staging area
 
 git commit - saves the changes in the staging area
 
-git push - git push - updates the remote repository with the local 
+git push - updates the remote repository with the local 
