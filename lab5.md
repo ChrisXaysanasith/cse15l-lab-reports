@@ -1,4 +1,4 @@
-## Lab Report 5
+# Lab Report 5
 
 **Student Symptom and Description of the Bug:**
 
