@@ -9,12 +9,13 @@
 **cd lab7**
 
 
+Java compiling
 `<up 11 times>` then `<enter>`
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/80380595-8da7-465f-9a0d-1527c057b427)
-
 <img width="854" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/d8e0942e-f6a9-44d7-b80e-b9a7f48690fb">
 
 ![image](https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/fbb78076-7087-4864-abfb-b4fe22b834d3)
+
 
 `<up 10 times>` then `<enter>`
 <img width="1209" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/208cecdf-75c2-4e7b-931b-31833cdaeeb0">
@@ -37,7 +38,7 @@
 `<up 2 times>` then `<enter>`
 <img width="1175" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/5d84fd17-8b28-4b00-9647-44a8467bfcae">
 
-then I know how git works, I did it individually
+then I know how git works, I typed it individually
 
 **git add ListExamples.java**
 For git add it adds it to the staging area locally. 
