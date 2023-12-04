@@ -48,7 +48,7 @@ The changes I made to `run.sh` was `ListExamplesTest.java` to `ListExamplesTest`
 
 <img width="903" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/83e3d4f0-230a-4981-9a4d-5521e1630740">
 
-Once, changed JUnit runs, as you said the merge code has an error to it
+Once, changed JUnit runs infinitely, as you said the merge code has an error to it
 
 <img width="454" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/1b105f39-15f3-49ad-851b-51ab01c60382">
 
