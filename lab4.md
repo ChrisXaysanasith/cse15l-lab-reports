@@ -60,6 +60,9 @@ Keypresses:
 <img width="642" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/663a1bd8-f5b9-4348-9798-315ee8127640">
 
 I used add, commit, and push to find the commands in my history: `git add ListExamples.java`, `git commit -m "Fixed bugs` and `git push`
+
 git add - adds to the staging area
+
 git commit - saves the changes in the staging area
+
 git push - git push - updates the remote repository with the local 
