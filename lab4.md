@@ -48,6 +48,7 @@ Keypresses:
 `<ctrl-r>,javac<enter>,<ctrl-r>,java<space><enter>`
 
 <img width="1199" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/6d320bd6-5643-4381-b51b-7080c7902319">
+
 I used javac to find the compile in my history and `java<space>`, to find the java command in the history. 
 
 `<ctrl-r>,add<enter>,<ctrl-r>,commit<enter>,ctrl-r>,push<enter>`
