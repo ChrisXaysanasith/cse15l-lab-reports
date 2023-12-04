@@ -1,6 +1,6 @@
 # Lab Report 4
 
-## Step 3
+## Step 4
 
 Keypresses:
 
@@ -8,9 +8,9 @@ Keypresses:
 
 <img width="616" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/2c8db66f-974c-40ed-a1fa-51ee0e6b9e3e">
 
-ssh command was up two in my bash history
+ssh command was up one in my history
 
-## Step 4
+## Step 5
 
 Keypresses:
 
@@ -19,7 +19,7 @@ The only clone I used recently was for this lab therefore, it was able to find t
 
 <img width="689" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/d4b776c6-e895-4393-90e1-e46302a963f8">
 
-## Step 5
+## Step 6
 
 Keypresses:
 
@@ -27,10 +27,10 @@ Keypresses:
 
 <img width="1160" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/9c73224e-d5af-4935-a9b6-3753df78593b">
 
-I cd'ed into the lab folder by typing in cd la<tab> to tab complete. I searched for the javac and for java I had to add a space for command in my history to not mistaken it for javac.
+I cd'ed into the lab7 folder by typing in cd la<tab> to tab complete. I searched for the javac and for java I had to add a space for command in my history to not mistaken it for javac.
 Therefore `javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java` and `java -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ListExamplesTests` were ran
 
-## Step 6
+## Step 7
 
 Keypresses:
 
@@ -38,10 +38,10 @@ Keypresses:
 
 <img width="494" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/2dabd9a3-80be-433e-9d09-b206bbe72717">
 
-I used vim to find my vim command in my history (vim ListExamples.java) I use ?index1 += 1 to find search backward patten of index1, then dw to delete the word then, press i to go into insert mode then I typed 
+I used vim to find my vim command in my history `vim ListExamples.java` I use `?index1 += 1` to find search backward patten of index1, then dw to delete the word then, press i to go into insert mode then I typed 
 `index2 += 1` then pressed esc to go into normal mode then :wq to save and exit.
 
-## Step 7
+## Step 8
 
 Keypresses:
 
@@ -49,7 +49,9 @@ Keypresses:
 
 <img width="1199" alt="image" src="https://github.com/ChrisXaysanasith/cse15l-lab-reports/assets/26499648/6d320bd6-5643-4381-b51b-7080c7902319">
 
-I used javac to find the compile in my history and `java<space>`, to find the java command in the history. 
+I used javac to find the java compile in my history and `java<space>`, to find the java command in the history. 
+
+## Step 9
 
 `<ctrl-r>,add<enter>,<ctrl-r>,commit<enter>,ctrl-r>,push<enter>`
 
