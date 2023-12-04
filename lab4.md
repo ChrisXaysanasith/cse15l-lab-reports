@@ -61,8 +61,6 @@ Keypresses:
 
 I used add, commit, and push to find the commands in my history: `git add ListExamples.java`, `git commit -m "Fixed bugs` and `git push`
 
-git add - adds to the staging area
-
-git commit - saves the changes in the staging area
-
+git add - adds to the staging area \
+git commit - saves the changes in the staging area \
 git push - updates the remote repository with the local 
